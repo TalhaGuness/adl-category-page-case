@@ -1,7 +1,7 @@
 ## Desktop Görünüm
 
-![Desktop](images/WebPreview)
+![adL Case WebPreview](images/products/WebPreview.png)
 
 ## Mobil Görünüm
 
-![Mobile](images/MobilPreview.png)
+![adL Case MobilPreview](images/products/MobilPreview.png)
