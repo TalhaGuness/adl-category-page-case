@@ -1,6 +1,6 @@
 ## Desktop Görünüm
 
-![Desktop](images/WebPreview.png)
+![Desktop](images/WebPreview)
 
 ## Mobil Görünüm
 
